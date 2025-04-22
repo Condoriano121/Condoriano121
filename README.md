@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Condoriano121
+- 👋 Hi, I’m Condoriano
 - 👀 I’m interested in videogames and sports
 - 🌱 I’m currently learning godot on my own while I work as a junior full stack developer
 - 💞️ I’m down to chat with anyone who seems friendly and who is interested in my hobbies
